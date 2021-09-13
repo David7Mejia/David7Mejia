@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 #### 🌱 I’m currently learning: 
-  - More Python and JS for ML!   
+  - More Python and JS for ML/AI!   
 #### ⚡ Fun facts:
   - I speak English, Spanish and Portuguese. 
   - I come from a background in Biology Human Physiology  
