@@ -2,7 +2,7 @@
 
 ### Software Engineer, Avid Traveler and Photographer
 **Welcome to my GitHub!**  
-I'm a full-stack engineer that loves complex problem solving!
+I'm a full-stack engineer looking for an opportunity to grow and expand professionally!
 <!--
 **David7Mejia/David7Mejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 -->
 
 #### 🌱 I’m currently learning: 
-  - More Python and JS for ML/AI!   
+  - AI, Deep Learning, Web 3.0 & Blockcahin
 #### ⚡ Fun facts:
   - I speak English, Spanish and Portuguese. 
-  - I come from a background in Biology Human Physiology  
+  - I come from a background in Biology Human Physiology.  
 
 ### Technologies and Tools:
    <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
