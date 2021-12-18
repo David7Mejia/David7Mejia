@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 #### 🌱 I’m currently learning: 
-  - AI, Deep Learning, Web 3.0 & Blockcahin
+  - AI/Deep Learning, Web 3.0 & Blockcahin
 #### ⚡ Fun facts:
   - I speak English, Spanish and Portuguese. 
   - I come from a background in Biology Human Physiology.  
