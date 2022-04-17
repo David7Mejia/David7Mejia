@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 #### 🌱 I’m currently learning: 
-  - AI/Deep Learning, Web 3.0 & Blockchain
+  - AI/Deep Learning
 #### ⚡ Fun facts:
   - I speak English, Spanish and Portuguese. 
   - Professional experience in Health & Fitness coaching.   
