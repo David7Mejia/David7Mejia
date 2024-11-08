@@ -1,8 +1,9 @@
 # <Hello, World!> I'm David 👋
 
-### Software Engineer, Avid Traveler and Photographer
+### FullStack Software Engineer 
 **Welcome to my GitHub!**  
-I'm a full-stack engineer looking for an opportunity to grow and expand professionally!
+Passion for learning and keeping up to date with new tech, especially in the AI space. 
+Fan of being able to integrate AI ino apps, extensions, etc. 
 <!--
 **David7Mejia/David7Mejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,11 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🌱 I’m currently learning: 
-  - AI/Deep Learning
+#### 🌱 I’m enjoy learning: 
+  - AI/Deep Learning, AI Agents, Tensorflow, Flowise, GAN's, StableDiffusion, LLM Integration.
 #### ⚡ Fun facts:
+  - App Academy Alumn.
+  - Worked for various startups.
   - I speak English, Spanish and Portuguese. 
-  - Professional experience in Health & Fitness coaching.   
+  - Before getting into tech I was in the Health & Fitness idustry, background in Human Physiology PreMed.   
 
 ### Technologies and Tools:
    <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
